@@ -5,6 +5,7 @@ import {deleteCityInfo, getCityInfo} from "../../../redux/city/city-operations";
 
 import s from "./WeatherListItem.module.scss"
 import {Link} from "react-router-dom";
+import {allCitesPoint} from "../../../redux/city/city-endpoint";
 
 function WeatherListItem(props) {
     const dispatch = useDispatch()
@@ -19,7 +20,7 @@ function WeatherListItem(props) {
     }
 
     function updateWeather() {
-        dispatch(getCityInfo(name))
+        dispatch(getCityInfo(allCitesPoint(name)))
     }
 
     return (
