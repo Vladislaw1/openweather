@@ -1,0 +1,47 @@
+.weatherListItem{
+  color: white;
+  font-family: Arial,sans-serif;
+  text-align: center;
+  position: relative;
+  padding: 10px;
+  width: 147px;
+  background: linear-gradient(
+                  190deg, blue, transparent);
+
+  &_link{
+    text-decoration: none;
+    color: white;
+  }
+
+  &:hover{
+    cursor: pointer;
+    box-shadow: 0px 0px 5px;
+  }
+}
+
+.btn_update{
+  position: absolute;
+  padding: 3px;
+  top: 5px;
+  right: 5px;
+  background: transparent;
+  border: none;
+  &:hover{
+    background: white;
+    cursor: pointer;
+    box-shadow: 1px 1px 4px white;
+  }
+}
+.btn_delete{
+  position: absolute;
+  padding: 3px;
+  top: 5px;
+  left: 5px;
+  background: transparent;
+  border: none;
+  &:hover{
+    background: white;
+    cursor: pointer;
+    box-shadow: 1px 1px 4px white;
+  }
+}
