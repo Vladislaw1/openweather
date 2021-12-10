@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/openweather/static/css/main.6240495d.chunk.css",
-    "main.js": "/openweather/static/js/main.78d18ba6.chunk.js",
-    "main.js.map": "/openweather/static/js/main.78d18ba6.chunk.js.map",
+    "main.js": "/openweather/static/js/main.2b2630be.chunk.js",
+    "main.js.map": "/openweather/static/js/main.2b2630be.chunk.js.map",
     "runtime-main.js": "/openweather/static/js/runtime-main.dab240fc.js",
     "runtime-main.js.map": "/openweather/static/js/runtime-main.dab240fc.js.map",
-    "static/js/2.edaffdea.chunk.js": "/openweather/static/js/2.edaffdea.chunk.js",
-    "static/js/2.edaffdea.chunk.js.map": "/openweather/static/js/2.edaffdea.chunk.js.map",
+    "static/js/2.2312cdaf.chunk.js": "/openweather/static/js/2.2312cdaf.chunk.js",
+    "static/js/2.2312cdaf.chunk.js.map": "/openweather/static/js/2.2312cdaf.chunk.js.map",
     "index.html": "/openweather/index.html",
     "static/css/main.6240495d.chunk.css.map": "/openweather/static/css/main.6240495d.chunk.css.map",
-    "static/js/2.edaffdea.chunk.js.LICENSE.txt": "/openweather/static/js/2.edaffdea.chunk.js.LICENSE.txt"
+    "static/js/2.2312cdaf.chunk.js.LICENSE.txt": "/openweather/static/js/2.2312cdaf.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.dab240fc.js",
-    "static/js/2.edaffdea.chunk.js",
+    "static/js/2.2312cdaf.chunk.js",
     "static/css/main.6240495d.chunk.css",
-    "static/js/main.78d18ba6.chunk.js"
+    "static/js/main.2b2630be.chunk.js"
   ]
 }
