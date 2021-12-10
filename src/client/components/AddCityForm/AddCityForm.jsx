@@ -20,7 +20,7 @@ function AddCityForm() {
 
     return (
         <form>
-            <input onChange={handleChange} name={"name"} value={data} placeholder={"City name"}/>
+            <input onChange={handleChange} name={"name"} value={data} placeholder={"City name"} autoComplete={"off"}/>
             <button onClick={handleSubmit}>Add</button>
         </form>
     );
